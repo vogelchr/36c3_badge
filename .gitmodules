@@ -1,0 +1,3 @@
+[submodule "LEDBadgeProgrammer"]
+	path = LEDBadgeProgrammer
+	url = https://github.com/DirkReiners/LEDBadgeProgrammer.git
